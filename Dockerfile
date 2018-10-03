@@ -1,6 +1,6 @@
 # どのイメージを基にするか
 FROM centos
-MAINTAINER Admin <tatsuya@shoin.fam.cx>
+MAINTAINER ryu314159 <tatsuya@shoin.fam.cx>
 # RUN: buildするときに実行される
 # RUN echo "now building..."
 # CMD: runするときに実行される
